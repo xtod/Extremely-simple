@@ -1,6 +1,6 @@
 # Extremely Simple
 
-<img src="https://raw.githubusercontent.com/hanwenguo/hugo-theme-nostyleplease/main/logo.png" width="64" align="left" />A (nearly) no-CSS, fast, minimalist [Hugo](https://gohugo.io/) theme ported from [riggraz/no-style-please](https://github.com/riggraz/no-style-please/).
+一款极致简洁的Hugo主题 
 
 <img src="https://raw.githubusercontent.com/hanwenguo/hugo-theme-nostyleplease/main/images/screenshot-both.png" />
 
@@ -73,9 +73,10 @@ For example, if you have a black and white image it could make sense to invert i
 
 ## 感谢
 
-Some of the code comes from [wooseopkim/hugo-theme-nostyleplease](https://github.com/wooseopkim/hugo-theme-nostyleplease), a fork of this theme.
+基于[riggraz/no-style-please](https://github.com/riggraz/no-style-please/)二次修改。
 
-Some of the test pages are from [this jekyll theme](https://github.com/huangyz0918/moving).
+一些代码参考[wooseopkim/hugo-theme-nostyleplease](https://github.com/wooseopkim/hugo-theme-nostyleplease)。
+
 
 ## 许可
 
