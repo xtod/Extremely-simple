@@ -9,18 +9,19 @@
 * 快速 (4kb CSS)
 * 自动切换亮暗主题
 * 响应式布局
-* Content first (typography optimized for maximum readability)
+* 内容优先，针对可读性进行排版优化
 * RSS
-* 支持MathJax
+* 支持数学公式(MathJax)
 * 支持HTML标记
 
-## 安装
+## 安装使用
 
-The easiest way is to clone this repo (or add as a submodule) to themes/nostyleplease then append `theme = 'nostyleplease'` as a newline to config.toml. Pages shipped with theme as examples have `draft: true` in their frontmatters, use `--buildDrafts` to build them.
+```sh
+cd hugo/themes
+git clone https://github.com/xtod/Extremely-simple.git
+```
 
-## 使用
-
-You can edit `hugo.yaml` file to customize your blog. You can change things such as the name of the blog, the author, the appearance of the theme (light, dark or auto), how dates are formatted, etc. Customizable fields should be straightforward to understand. Still, `config.toml` contains some comments to help you understand what each field does. Note that the `config.toml` under root directory of your hugo site will completely override the one in the theme directory, so copy the attributes you want to keep or edit from the theme's `config.toml` to your site's `config.toml`.
+具体使用可以参考`example`中示例站点
 
 ### 自定义菜单
 

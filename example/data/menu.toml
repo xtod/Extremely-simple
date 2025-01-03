@@ -1,0 +1,54 @@
+[[entries]]
+title = "info"
+  [[entries.entries]]
+  title = "readme"
+  url = "/readme/"
+  [[entries.entries]]
+  title = "etc"
+  url = "/etc/"
+
+[[entries]]
+title = "Recent Articles"
+
+  [entries.post_list]
+  limit = 7
+  show_more = true
+  show_more_text = "All post..."
+  show_more_url = "post"
+
+#[[entries]]
+#title = "posts by category"
+
+#  [entries.post_list]
+#  section = "post"
+#  show_more = true
+#  show_more_text = "See more posts..."
+#  show_more_url = "posts"
+
+[[entries]]
+title = "RSS"
+url = "index.xml"
+[[entries]]
+title = "晚清沧海事"
+url = "https://wqchs.cn/"
+[[entries]]
+title = "Markdown"
+url = "https://markdown.hk/"
+#[[entries]]
+#title = "another list"
+
+#  [[entries.entries]]
+#  title = "with subitems"
+
+#    [[entries.entries.entries]]
+#    title = "with subsubitems"
+
+#    [[entries.entries.entries]]
+#    title = "example page"
+#    url = "about"
+
+#[[entries]]
+#title = "PRO TIP"
+#entries = [
+#   { title = "to edit this menu, edit data/menu.toml file" }
+#  ]
