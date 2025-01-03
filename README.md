@@ -2,7 +2,7 @@
 
 一款极致简洁的Hugo主题 
 
-![Extremely Simple](https://raw.githubusercontent.com/xtod/Extremely-simple/refs/heads/main/example/static/screen_light.png "Extremely Simple")
+![Extremely Simple](https://raw.githubusercontent.com/xtod/Extremely-simple/refs/heads/main/images/screenshot.png "Extremely Simple")
 
 ## 特性
 
